@@ -27,22 +27,22 @@
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.15.9",
+      "versionRange": "*",
       "additionalData": {}
     },
     {
       "id": "config-utils",
-      "versionRange": "^0.7.2",
+      "versionRange": "*",
       "additionalData": {}
     },
     {
       "id": "questui",
-      "versionRange": "^0.13.5",
+      "versionRange": "*",
       "additionalData": {}
     },
     {
       "id": "codegen",
-      "versionRange": "^0.22.0",
+      "versionRange": "*",
       "additionalData": {}
     }
   ],
